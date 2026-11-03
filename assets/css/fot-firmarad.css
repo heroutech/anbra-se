@@ -1,0 +1,3 @@
+/* ANBRA – firmarad i sidfoten (v6, 2026-11-03). 12px, centrerad, #BDBDBD mot #1F4A3D = 5,31:1 (WCAG AA). */
+.fot p.firmarad{grid-column:1/-1;margin:6px 0 0;text-align:center;font-size:12px;line-height:1.4;color:#BDBDBD}
+.fot p.firmarad a{color:#BDBDBD}
